@@ -113,3 +113,7 @@ Examle:
 ALTER TABLE students
 RENAME COLUMN studentName to Sstudent_name;
 
+File:
+. 02-Alter_Table.sql
+Learning Date:
+. 07-Jun-2026
