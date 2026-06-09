@@ -117,3 +117,27 @@ File:
 . 02-Alter_Table.sql
 Learning Date:
 . 07-Jun-2026
+
+
+## DROP TABLE
+
+DROP TABLE permanently removes the table and its data from the database.
+
+Syntax:
+
+DROP TABLE Table_name;
+
+Example:
+DROP TABLE Students;
+
+
+## TRUNCATE TABLE
+TRUNCATE TABLE removes all rows from a table but keeps the table structure.
+
+Syntax:
+TRUNCATE TABLE students;
+
+File:
+. 03-DROP&TRUNCATE_TABLE.sql
+Learning Date:
+. 08-Jun-2026
